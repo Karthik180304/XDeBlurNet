@@ -16,4 +16,4 @@ CSWin-UNet incorporates a stripe-based self-attention mechanism that efficiently
 
 The model was trained and evaluated on the following dataset:
 
-**Medical Image Deblurring Dataset**: [Drive Link to download]([https://data.mendeley.com/preview/pjxpzkhbf7?a=cd578e35-8a65-4e0d-9c54-d044105faeb1](https://drive.google.com/drive/folders/1hi5i5t1sPngXcwma9jdB_plbD4TESI7K?usp=sharing))
+**Medical Image Deblurring Dataset**: [https://drive.google.com/drive/folders/1hi5i5t1sPngXcwma9jdB_plbD4TESI7K?usp=sharing]([https://data.mendeley.com/preview/pjxpzkhbf7?a=cd578e35-8a65-4e0d-9c54-d044105faeb1](https://drive.google.com/drive/folders/1hi5i5t1sPngXcwma9jdB_plbD4TESI7K?usp=sharing))
